@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Test",
+        "Category": "Server Settings",
+        "Description": "",
+        "Keywords": "test",
+        "FieldName": "",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
