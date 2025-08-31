@@ -1,10 +1,10 @@
 {
-    "id": "40e232b7-faab-42bf-b386-3d0fde2d0404",
+    "id": "4789859d-c284-474e-bd3e-7a0b8ccb6e9f",
     "authors": [
-        " - Made with AMP Config Generator"
+        "slamsnake"
     ],
-    "origin": "https://github.com/ - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/ - Made with AMP Config Generator/AMPTemplates",
+    "origin": "https://github.com/slamsnake/AMPTemplates.git",
+    "url": "https://github.com/slamsnake/AMPTemplates",
     "imagefile": "",
-    "prefix": " - Made with AMP Config Generator"
+    "prefix": "slamsnake"
 }
